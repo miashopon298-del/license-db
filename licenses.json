@@ -1,1 +1,10 @@
-{}
+{
+  "Q513-9H3D-ISR5-XMNN": {
+    "hwid": "CA3787CFB013BA586A2A3B4EA8E5D1B4",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "Admin",
+    "active": true,
+    "created": "2026-03-28"
+  }
+}
