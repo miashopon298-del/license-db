@@ -6,5 +6,13 @@
     "note": "Jibon",
     "active": false,
     "created": "2026-03-28"
+  },
+  "9HPY-H0IC-8EQ8-PXUA": {
+    "hwid": "CA3787CFB013BA586A2A3B4EA8E5D1B4",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "Admin",
+    "active": true,
+    "created": "2026-03-28"
   }
 }
