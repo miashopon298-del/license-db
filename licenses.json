@@ -38,5 +38,13 @@
     "note": "",
     "active": false,
     "created": "2026-03-29"
+  },
+  "0IWD-GYJG-C2EY-319E": {
+    "hwid": "7AF5B7A8B32A9192C5AF75FF9737982F",
+    "expire": "2026-04-28",
+    "plan": "1 Month",
+    "note": "",
+    "active": true,
+    "created": "2026-03-29"
   }
 }
