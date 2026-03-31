@@ -86,5 +86,13 @@
     "note": "Jisun",
     "active": true,
     "created": "2026-03-31"
+  },
+  "2LPC-8256-BN53-2OL2": {
+    "hwid": "3C408FABD57A99556803598335F51969",
+    "expire": "2027-03-31",
+    "plan": "1 Year",
+    "note": "Jisun",
+    "active": true,
+    "created": "2026-03-31"
   }
 }
