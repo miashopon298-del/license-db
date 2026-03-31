@@ -6,5 +6,13 @@
     "note": "Admin",
     "active": true,
     "created": "2026-03-31"
+  },
+  "37KT-U5CN-GUC6-3P4N": {
+    "hwid": "3C408FABD57A99556803598335F51969",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "Jisun",
+    "active": true,
+    "created": "2026-03-31"
   }
 }
