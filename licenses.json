@@ -92,7 +92,7 @@
     "expire": "2027-03-31",
     "plan": "1 Year",
     "note": "Jisun",
-    "active": true,
+    "active": false,
     "created": "2026-03-31"
   }
 }
