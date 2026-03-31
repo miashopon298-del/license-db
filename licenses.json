@@ -78,5 +78,13 @@
     "note": "Jisun",
     "active": false,
     "created": "2026-03-31"
+  },
+  "HFB6-AN64-2DEY-S3M8": {
+    "hwid": "3C408FABD57A99556803598335F51969",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "Jisun",
+    "active": true,
+    "created": "2026-03-31"
   }
 }
