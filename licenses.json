@@ -38,5 +38,13 @@
     "note": "Admin",
     "active": true,
     "created": "2026-04-01"
+  },
+  "HROK-YY62-Q5LC-CZJY": {
+    "hwid": "7AF5B7A8B32A9192C5AF75FF9737982F",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "",
+    "active": true,
+    "created": "2026-04-01"
   }
 }
