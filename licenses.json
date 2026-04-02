@@ -12,7 +12,7 @@
     "expire": "9999-12-31",
     "plan": "Lifetime",
     "note": "",
-    "active": true,
+    "active": false,
     "created": "2026-04-01"
   }
 }
