@@ -22,5 +22,13 @@
     "note": "",
     "active": true,
     "created": "2026-04-02"
+  },
+  "FLPS-AA93-NWAA-584M": {
+    "hwid": "0CF6BF95F1C61230777B279FEE5F3859",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "Jisun",
+    "active": true,
+    "created": "2026-04-09"
   }
 }
