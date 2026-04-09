@@ -30,5 +30,13 @@
     "note": "Jisun",
     "active": true,
     "created": "2026-04-09"
+  },
+  "OBQS-C4UT-DHTO-E14R": {
+    "hwid": "7AF5B7A8B32A9192C5AF75FF9737982F",
+    "expire": "9999-12-31",
+    "plan": "Lifetime",
+    "note": "Admin",
+    "active": true,
+    "created": "2026-04-09"
   }
 }
